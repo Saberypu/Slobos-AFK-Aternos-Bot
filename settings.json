@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chocolatadaas.aternos.me",
-    "port": 48634,
-    "version": "",
+    "ip": "papitascalientes.play.hosting",
+    "port": 25985,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
